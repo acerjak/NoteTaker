@@ -1,6 +1,6 @@
 ## Note Taker
 ## Description
-> 
+> This application allows the user to add and remove notes that will remain on the page even after refreshing as the data is stored within db.json for future use. 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,9 +12,9 @@
 #### Please follow this command to install npm dependencies:
 > npm i
 ## Usage
-> 
+> Users can utilize this application for storing notes and deleting existing notes.
 ## Credits
-> 
+> The front end was given entirely by UCI. I contributed to the back end routing so that the application has functionality, such as adding an item and deleting an item. The data from each note is stored for future reference or told to re-write the page without the chosen deleted note.
 ## License
 > None
 ## Tests
