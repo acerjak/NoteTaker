@@ -1,7 +1,5 @@
 const router = require('express').Router()
-const {
-    writeFile
-} = require('fs')
+const { writeFile } = require('fs')
 
 let notes = (require("../db/db.json"))
 console.log(notes)
